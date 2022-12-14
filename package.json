@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/featriadi/nodejs-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/featriadi/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/featriadi/nodejs-web-server#readme"
+}
